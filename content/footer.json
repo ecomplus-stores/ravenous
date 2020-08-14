@@ -14,8 +14,8 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
-    "phone_wpp": true,
+    "title": "CONTATO ",
+    "phone_wpp": false,
     "socials": true,
     "email": true,
     "address": true
