@@ -1,7 +1,7 @@
 {
   "domain": "ravenous.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#ffffff",
   "icon": "/img/icon.png",
   "store_id": 1148,
   "description": "ACESSÓRIOS & ITENS DECORATIVOS\n\n\nOCCULT / DARK / MYSTIC / HORROR ... GOSTOU? BE A RAVENGIRL!",
