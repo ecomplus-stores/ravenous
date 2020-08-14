@@ -1,5 +1,7 @@
 {
-  "sort_categories": [],
-  "phone_wpp": true,
+  "sort_categories": [
+    "colares"
+  ],
+  "phone_wpp": false,
   "socials": true
 }
