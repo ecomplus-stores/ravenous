@@ -9,9 +9,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/colares?COLARES"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": true
   },
