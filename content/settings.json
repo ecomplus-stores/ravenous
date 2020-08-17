@@ -1,7 +1,7 @@
 {
   "domain": "ravenous.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "cyborg",
     "custom": "_"
