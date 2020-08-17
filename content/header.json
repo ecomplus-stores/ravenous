@@ -10,8 +10,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/encomendas?ENCOMENDAS",
+      "/colares?COLARES",
+      "/brincos?BRINCOS",
+      "/chokers?CHOKERS",
+      "/alargabrincos?ALARGABRINCOS",
+      "/aneis?ANÉIS ",
+      "/decoracao?DECORAÇÃO",
+      "/outros?OUTROS",
+      "/exclusivos?EXCLUSIVOS!"
+    ],
+    "random": 9,
     "full_width": true
   },
   "search_input": true
