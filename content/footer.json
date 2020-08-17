@@ -24,24 +24,27 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/5.png"
     }
   ],
   "payment_methods": {
-    "bb": true,
-    "visa": true,
+    "bb": false,
+    "visa": false,
     "boleto": true,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "paypal": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
