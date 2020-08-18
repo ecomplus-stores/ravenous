@@ -20,6 +20,15 @@
     {
       "type": "custom-html",
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/827511\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/5.jpg",
+          "link": "https://ravenous-3162.netlify.app/colares"
+        }
+      ]
     }
   ]
 }
