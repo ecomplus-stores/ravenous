@@ -5,13 +5,20 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "ATENDIMENTO"
+      }
+    ],
     "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 9,
+    "featured": [
+      "/encomendas?ENCOMENDAS",
+      "/colares?COLARES"
+    ],
+    "random": 0,
     "full_width": true
   },
   "search_input": true
