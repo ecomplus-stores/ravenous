@@ -5,18 +5,21 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "ATENDIMENTO"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
     "featured": [
       "/encomendas?ENCOMENDAS",
-      "/colares?COLARES"
+      "/colares?COLARES",
+      "/brincos?BRINCOS",
+      "/chokers?CHOKERS",
+      "/alargabrincos?ALARGABRINCOS",
+      "/aneis?ANÉIS ",
+      "/decoracao?DECORAÇÃO",
+      "/outros?OUTROS",
+      "/exclusivos?EXCLUSIVOS!"
     ],
     "random": 0,
     "full_width": true
