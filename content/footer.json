@@ -10,8 +10,10 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "",
-    "list": []
+    "title": "TESTE",
+    "list": [
+      {}
+    ]
   },
   "contacts": {
     "title": "CONTATO ",
@@ -21,10 +23,6 @@
     "address": true
   },
   "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
     {
       "src": "/img/uploads/5.png"
     }
@@ -43,8 +41,8 @@
     "mastercard": false,
     "paypal": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": false
   },
-  "credits": ""
+  "credits": "TESTE"
 }
