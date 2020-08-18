@@ -10,10 +10,8 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "TESTE",
-    "list": [
-      {}
-    ]
+    "title": "",
+    "list": []
   },
   "contacts": {
     "title": "CONTATO ",
@@ -25,24 +23,29 @@
   "stamps": [
     {
       "src": "/img/uploads/5.png"
+    },
+    {
+      "src": "/img/uploads/1.png"
     }
   ],
   "payment_methods": {
     "bb": false,
-    "visa": false,
-    "boleto": true,
+    "visa": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": false,
-    "hipercard": false,
+    "elo": true,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": false,
+    "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "mais": true,
+    "hiper": true,
+    "mais": false,
+    "amex": true,
     "itau": false
   },
-  "credits": "TESTE"
+  "credits": "RAVENOUS - CNPJ: 23.825.349/0001-68 © 2020 TODOS OS DIREITOS RESERVADOS"
 }
