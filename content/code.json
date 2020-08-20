@@ -1,5 +1,5 @@
 {
-  "css": ".header__nav a {\ncolor: #CCCCCC;\nfont-size: larger;\n}",
+  "css": ".header__nav a {\ncolor: #CCCCCC;\nfont-size: larger;\n}\n\n.menu__item {\ncolor: #CCCCCC;\n}",
   "html_head": "",
   "html_body": ""
 }
