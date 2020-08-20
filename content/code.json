@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header__nav a {\ncolor: #CCCCCC;\nfont-size: larger;\n}",
   "html_head": "",
   "html_body": ""
 }
