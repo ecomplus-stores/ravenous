@@ -1,5 +1,5 @@
 {
-  "css": ".header__nav a {\ncolor: #FFFFFF;\nfont-size: larger;\n}\n\n.menu__item {\ncolor: #CCCCCC;\n}",
+  "css": ".header__nav a {\ncolor: #FFFFFF;\nfont-size: larger;\n}\n\n.menu__item {\ncolor: #CCCCCC;\n}\n\nheader.app__header {\nbackground: #000;\nbox-shadow: 0 1px 10px 0 #696969;\ncolor: #fff;\n}\n.app__contact span:not(:last-child) {\ncolor: #d3d3d3;\n}\n.app__contact span:not(:first-child) {\ncolor: #fff;\n}",
   "html_head": "",
   "html_body": ""
 }
