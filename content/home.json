@@ -35,7 +35,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news",
+      "sort": null,
       "title": "NOVIDADES RECENTES!",
       "collection_id": null
     },
