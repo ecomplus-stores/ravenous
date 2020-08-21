@@ -31,10 +31,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "sort": null,
       "title": "NOVIDADES RECENTES!",
-      "collection_id": null
+      "collection_id": "5f3f3078f023684cdbdbca75"
     },
     {
       "type": "blog",
