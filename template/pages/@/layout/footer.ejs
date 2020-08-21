@@ -134,43 +134,12 @@ const networksWithColors = [
       </div>
 
       <div class="col-12 col-sm-6 col-lg social-box-fb">
-        <a
-          class="footer__title"
-          data-toggle="collapse"
-          href="#footer-categories"
-          role="button"
-          aria-expanded="false"
-          aria-controls="footer-categories"
-        >
-          <%= footer.links_2.title || _.dictionary('categories') %>
-        </a>
-        <div class="collapse" id="footer-categories">
-          <% if (footer.links_2.list_categories) { %>
-            <ul class="footer__links">
-              <% _.categories.forEach(({ name, slug, parent }) => { %>
-                <% if (!parent) { %>
-                  <li>
-                    <i class="fas fa-angle-right"></i>
-                    <a href="/<%= slug %>">
-                      <%= name %>
-                    </a>
-                  </li>
-                <% } %>
-              <% }) %>
-            </ul>
-          <% } else { %>
-            <ul class="footer__links">
-              <% footer.links_2.list.forEach(({ url, text }) => { %>
-                <li>
-                  <i class="fas fa-angle-right"></i>
-                  <a href="<%= url %>">
-                    <%= text %>
-                  </a>
-                </li>
-              <% }) %>
-            </ul>
-          <% } %>
-        </div>
+        <p class="footer__title">Teste</p>
+
+        <div id="fb-root"></div>
+          <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v8.0" nonce="lAW5Ssck"></script>
+
+        <div class="fb-page" data-href="https://www.facebook.com/ravenousloja/" data-tabs="" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ravenousloja/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ravenousloja/">Ravenous</a></blockquote></div>
       </div>
 
       <div class="col-12 col-xl-5 order-lg-first">
