@@ -5,11 +5,11 @@
       "enabled": true
     },
     {
-      "type": "category-retail",
+      "type": "document-banner",
       "enabled": true
     },
     {
-      "type": "info-bar",
+      "type": "category-retail",
       "enabled": true
     }
   ]
