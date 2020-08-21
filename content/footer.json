@@ -26,6 +26,9 @@
     },
     {
       "src": "/img/uploads/1.png"
+    },
+    {
+      "src": "/img/uploads/picpay-logo.png"
     }
   ],
   "payment_methods": {
