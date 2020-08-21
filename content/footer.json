@@ -44,7 +44,7 @@
     "citibank": false,
     "hiper": true,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": "RAVENOUS - CNPJ: 23.825.349/0001-68 © 2020 TODOS OS DIREITOS RESERVADOS"
