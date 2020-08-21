@@ -11,7 +11,12 @@
   "links_2": {
     "list_categories": false,
     "title": "Teste",
-    "list": []
+    "list": [
+      {
+        "text": "Teste Link",
+        "url": "#"
+      }
+    ]
   },
   "contacts": {
     "title": "CONTATO ",
