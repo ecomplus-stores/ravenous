@@ -19,6 +19,11 @@
       "headless": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "headless": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
