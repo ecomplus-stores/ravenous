@@ -1,5 +1,5 @@
 {
-  "css": ".header__nav a {\ncolor: #FFFFFF;\nfont-size: larger;\n}\n\n.menu__item {\ncolor: #CCCCCC;\n}\n\n\n",
+  "css": ".header__nav a {\ncolor: #FFFFFF;\nfont-size: larger;\n}\n\n.menu__item {\ncolor: #CCCCCC;\n}\n\n\n/*********************\n* CSS Ravenous\n* Edição: Del Vieira\n**********************/\n]\n\n/* Geral */\n#header,.top-bar,.footer {\n    background: #000;\n    background-color: #000;\n    color: #fff;\n}\n\n\n#header a,.top-bar a,.footer  a {\n    color: #fff;\n}\n\n.menu__social .fab,\n.footer__social .fab{\n    color: #FFF;\n}\n\n\n/* Menu lateral */\n#menu .menu__item {\n    color: #FFF;\n}\n\n\n/* Footer */\n\n.footer__stamps li {\n    margin: 2px 0;\n    padding: 2px 0px;\n}\n\n.footer__stamps img {\n    width: auto !important;\n    max-height: 43px !important;\n    background: #FFF;\n}\n\n\n",
   "html_head": "",
   "html_body": ""
 }
