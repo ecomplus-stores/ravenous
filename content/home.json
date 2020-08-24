@@ -35,7 +35,8 @@
       "banners": [
         {
           "img": "/img/uploads/5.jpg",
-          "link": "https://ravenous-3162.netlify.app/colares"
+          "link": "https://ravenous-3162.netlify.app/colares",
+          "alt": ""
         },
         {
           "img": "/img/uploads/28.jpg",
