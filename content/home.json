@@ -24,6 +24,12 @@
       "headless": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "headless": true,
+      "collection_id": "5f3eb479f023684cdbdba0b6"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
