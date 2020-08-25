@@ -66,13 +66,13 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "INSTAGRAM @RAVENOUSLOJA"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/ravengirl2.png",
       "link": "https://www.instagram.com/ravenousloja/"
-    },
-    {
-      "type": "page-title",
-      "title": "INSTAGRAM @RAVENOUSLOJA"
     },
     {
       "type": "custom-html",
