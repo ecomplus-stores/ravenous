@@ -5,5 +5,30 @@
   "description": "",
   "body": "![](/img/uploads/coffin-nemenis.jpg)",
   "meta_title": "",
-  "meta_description": ""
+  "meta_description": "",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/18.jpg"
+        },
+        {
+          "img": "/img/uploads/18.jpg"
+        },
+        {
+          "img": "/img/uploads/18.jpg"
+        },
+        {
+          "img": "/img/uploads/28.jpg"
+        },
+        {
+          "img": "/img/uploads/28.jpg"
+        },
+        {
+          "img": "/img/uploads/28.jpg"
+        }
+      ]
+    }
+  ]
 }
