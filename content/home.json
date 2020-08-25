@@ -7,11 +7,15 @@
       "img": "/img/uploads/covid-site-6.jpg"
     },
     {
+      "type": "page-title",
+      "title": "DESTAQUES"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f3eb479f023684cdbdba0b6",
-      "headless": false,
-      "title": "DESTAQUES "
+      "headless": true,
+      "title": ""
     },
     {
       "type": "collection-shelf",
