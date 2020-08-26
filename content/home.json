@@ -39,18 +39,22 @@
         {
           "img": "/img/uploads/witchcraft.png",
           "link": "https://ravenous-3162.netlify.app/witchcraft",
-          "alt": ""
+          "alt": "",
+          "mobile_img": "/img/uploads/witchcraft-1-.png"
         },
         {
           "img": "/img/uploads/halloween.png",
-          "link": "https://ravenous-3162.netlify.app/chokers"
+          "link": "https://ravenous-3162.netlify.app/chokers",
+          "mobile_img": "/img/uploads/witchcraft-2-.png"
         },
         {
           "img": "/img/uploads/site-.png",
-          "link": "https://ravenous-3162.netlify.app/brincos"
+          "link": "https://ravenous-3162.netlify.app/brincos",
+          "mobile_img": "/img/uploads/witchcraft-4-.png"
         },
         {
-          "img": "/img/uploads/occult.png"
+          "img": "/img/uploads/occult.png",
+          "mobile_img": "/img/uploads/witchcraft-3-.png"
         }
       ]
     },
