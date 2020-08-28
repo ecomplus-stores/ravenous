@@ -37,7 +37,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-witchcraft.png",
+          "img": "/img/uploads/banner-with.png",
           "link": "https://ravenous-3162.netlify.app/witchcraft",
           "alt": "",
           "mobile_img": "/img/uploads/witchcraft-1-.png"
@@ -80,6 +80,11 @@
     {
       "type": "custom-html",
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/827511\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-ravengirl.png",
+      "link": "https://www.instagram.com/ravenousloja/"
     }
   ]
 }
