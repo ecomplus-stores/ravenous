@@ -37,13 +37,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/witchcraft.png",
+          "img": "/img/uploads/banner-witchcraft.png",
           "link": "https://ravenous-3162.netlify.app/witchcraft",
           "alt": "",
           "mobile_img": "/img/uploads/witchcraft-1-.png"
         },
         {
-          "img": "/img/uploads/halloween.png",
+          "img": "/img/uploads/banner-halloween.png",
           "link": "https://ravenous-3162.netlify.app/colecao-everyday-is-halloween",
           "mobile_img": "/img/uploads/witchcraft-2-.png"
         },
