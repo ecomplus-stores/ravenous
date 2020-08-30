@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/remessa.png)"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
