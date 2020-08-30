@@ -9,8 +9,8 @@
       "enabled": true
     },
     {
-      "type": "custom-content",
-      "markdown": "<center>![](/img/uploads/remessa.png)<center>"
+      "type": "responsive-banner",
+      "img": "/img/uploads/remessa.png"
     },
     {
       "type": "product-description",
