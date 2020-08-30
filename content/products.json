@@ -10,7 +10,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "![](/img/uploads/remessa.png)"
+      "markdown": "<center>![](/img/uploads/remessa.png)<center>"
     },
     {
       "type": "product-description",
