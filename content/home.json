@@ -56,7 +56,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "sort": null,
       "title": "NOVIDADES RECENTES!",
       "collection_id": "5f3f3078f023684cdbdbca75"
