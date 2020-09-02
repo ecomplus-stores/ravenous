@@ -8,12 +8,28 @@
     "title": "PÁGINAS ",
     "list": [
       {
-        "url": "https://ravenous-3162.netlify.app/pages/we-ship-worldwide",
-        "text": " WE SHIP WORLDWIDE"
+        "url": "https://ravenous-3162.netlify.app/pages/faq",
+        "text": "COMO COMPRAR / FORMAS DE PAGAMENTOS "
+      },
+      {
+        "text": "ENVIOS E PRAZOS",
+        "url": "https://ravenous-3162.netlify.app/pages/entrega"
+      },
+      {
+        "text": "PROMOÇÕES ATIVAS",
+        "url": "https://ravenous-3162.netlify.app/pages/promocoes-ativas"
       },
       {
         "url": "https://ravenous-3162.netlify.app/blog",
         "text": "PRODUÇÃO"
+      },
+      {
+        "text": "TROCAS E DEVOLUÇÕES",
+        "url": "https://ravenous-3162.netlify.app/pages/trocas"
+      },
+      {
+        "url": "https://ravenous-3162.netlify.app/pages/we-ship-worldwide",
+        "text": " WE SHIP WORLDWIDE"
       }
     ]
   },
