@@ -68,7 +68,7 @@
     },
     {
       "type": "blog",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "page-title",
