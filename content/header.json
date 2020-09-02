@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "SITE NOVO! REFAÇA SEU CADASTRO PARA COMPRAR NA LOJA :)  ",
-    "link": "",
+    "text": "FRETE PAC GRÁTIS PARA COMPRAS ACIMA DE R$250",
+    "link": "https://ravenous-3162.netlify.app/pages/promocoes-ativas",
     "color": "#ffffff"
   },
   "contacts_stripe": {
