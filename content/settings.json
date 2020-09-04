@@ -1,5 +1,5 @@
 {
-  "domain": "ravenous.netlify.app",
+  "domain": "ravenous.com.br",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#000000",
   "logo": "/img/uploads/logo-site.png",
-  "name": "ravenous",
-  "short_name": "ravenous",
+  "name": "Ravenous",
+  "short_name": "Ravenous",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
