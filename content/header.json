@@ -19,7 +19,8 @@
       "/aneis?ANÉIS ",
       "/decoracao?DECORAÇÃO",
       "/outros?OUTROS",
-      "/exclusivos?EXCLUSIVOS!"
+      "/exclusivos?EXCLUSIVOS!",
+      "/edicao-limitada?EDIÇÃO LIMITADA"
     ],
     "random": 0,
     "full_width": true
