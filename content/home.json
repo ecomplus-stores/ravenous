@@ -3,17 +3,17 @@
   "meta_description": "Ravenous - Acessórios Alternativos l Confecção Própria e Artesanal ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fechado.jpg",
-      "link": "https://ravenous.com.br/pages/entrega"
-    },
-    {
       "type": "page-title",
       "title": "PROMO DE HALLOWEEN:"
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/promo2.png"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fechado.jpg",
+      "link": "https://ravenous.com.br/pages/entrega"
     },
     {
       "type": "page-title",
