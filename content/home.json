@@ -8,6 +8,10 @@
       "link": "https://ravenous.com.br/pages/entrega"
     },
     {
+      "type": "page-title",
+      "title": "PROMOÇÃO ATIVA!"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/promo2.png"
     },
