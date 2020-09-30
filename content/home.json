@@ -8,7 +8,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/promo2.png"
+      "img": "/img/uploads/promo2.png",
+      "link": "https://ravenous.com.br/pages/promocoes-ativas"
     },
     {
       "type": "responsive-banner",
