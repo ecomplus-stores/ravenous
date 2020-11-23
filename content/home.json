@@ -3,9 +3,18 @@
   "meta_description": "Ravenous - Acessórios Alternativos l Confecção Própria e Artesanal ",
   "sections": [
     {
+      "type": "page-title",
+      "title": "BLACK WEEK"
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/ciclofe.jpg",
-      "link": "https://ravenous.com.br/pages/entrega"
+      "img": "/img/uploads/black-week.png"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/covid-site-10.jpg",
+      "link": "https://ravenous.com.br/pages/entrega",
+      "alt": ""
     },
     {
       "type": "page-title",
