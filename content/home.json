@@ -26,12 +26,6 @@
       "headless": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "headless": true,
-      "collection_id": "5f442125f023684cdbdc89e0"
-    },
-    {
       "type": "page-title",
       "title": "COLEÇÕES "
     },
