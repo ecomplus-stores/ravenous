@@ -3,12 +3,6 @@
   "meta_description": "Ravenous - Acessórios Alternativos l Confecção Própria e Artesanal ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ferias.png",
-      "link": "https://ravenous.com.br/pages/entrega",
-      "alt": ""
-    },
-    {
       "type": "page-title",
       "title": "DESTAQUES"
     },
