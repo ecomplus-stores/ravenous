@@ -5,10 +5,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ferias.png"
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
