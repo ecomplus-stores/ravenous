@@ -3,6 +3,10 @@
   "meta_description": "Ravenous - Acessórios Alternativos l Confecção Própria e Artesanal ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/prazo-de-confecao-20-dias-uteis-2-.png"
+    },
+    {
       "type": "page-title",
       "title": "DESTAQUES"
     },
