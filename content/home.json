@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-inicial.png"
+      "img": "/img/uploads/banner-site.png"
     },
     {
       "type": "page-title",
@@ -31,20 +31,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/occult.png",
-          "mobile_img": "",
-          "link": "https://ravenous.com.br/occult"
-        },
-        {
-          "img": "/img/uploads/mystic.png",
+          "img": "/img/uploads/banner-witchcraft.png",
           "link": "https://ravenous.com.br/witchcraft",
           "alt": "",
-          "mobile_img": "/img/uploads/mystic-1-.png"
+          "mobile_img": "/img/uploads/banner-witcraft-p.png"
         },
         {
-          "img": "/img/uploads/horror.png",
+          "img": "/img/uploads/banner-everyday.png",
           "link": "https://ravenous.com.br/colecao-everyday-is-halloween",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/banner-everyday-p.png"
+        },
+        {
+          "img": "/img/uploads/banner-occult.png",
+          "mobile_img": "/img/uploads/banner-occult-p.png",
+          "link": "https://ravenous.com.br/occult"
         }
       ]
     },
