@@ -32,19 +32,19 @@
       "banners": [
         {
           "img": "/img/uploads/occult.png",
-          "mobile_img": "/img/uploads/banner-occult-p.png",
+          "mobile_img": "",
           "link": "https://ravenous.com.br/occult"
         },
         {
-          "img": "/img/uploads/banner-witchcraft.png",
+          "img": "/img/uploads/mystic.png",
           "link": "https://ravenous.com.br/witchcraft",
           "alt": "",
-          "mobile_img": "/img/uploads/banner-witcraft-p.png"
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner-everyday.png",
+          "img": "/img/uploads/horror.png",
           "link": "https://ravenous.com.br/colecao-everyday-is-halloween",
-          "mobile_img": "/img/uploads/banner-everyday-p.png"
+          "mobile_img": ""
         }
       ]
     },
