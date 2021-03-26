@@ -32,14 +32,14 @@
       "banners": [
         {
           "img": "/img/uploads/banner-1.png",
-          "mobile_img": "/img/uploads/banner-occult-p.png",
+          "mobile_img": "/img/uploads/occult-large.png",
           "link": "https://ravenous.com.br/occult"
         },
         {
           "img": "/img/uploads/banner-2.png",
           "link": "https://ravenous.com.br/mystic",
           "alt": "",
-          "mobile_img": "/img/uploads/banner-witcraft-p.png"
+          "mobile_img": "/img/uploads/mystic-large.png"
         },
         {
           "img": "/img/uploads/banner-3-3.png",
