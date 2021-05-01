@@ -7,10 +7,6 @@
       "img": "/img/uploads/banner-site.png"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/brinde-cranio.png"
-    },
-    {
       "type": "page-title",
       "title": "DESTAQUES"
     },
