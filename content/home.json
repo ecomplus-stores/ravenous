@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/gothday-site-1-.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png"
     },
     {
