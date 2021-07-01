@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/promo-site234.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png"
     },
     {
