@@ -1,5 +1,15 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "colares",
+    "brincos",
+    "chokers",
+    "aneis",
+    "alargabrincos",
+    "decoracao",
+    "edicao-limitada",
+    "exclusivos"
+  ],
   "phone_wpp": false,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
