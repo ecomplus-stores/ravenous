@@ -52,16 +52,16 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/paypal_large_large_920ae864-43ac-4c13-ad1c-a568426df52b_large.png"
+      "src": "/img/uploads/logo-paypal-256.png"
     },
     {
-      "src": "/img/uploads/1.png"
+      "src": "/img/uploads/logo-pix-256.png"
     },
     {
-      "src": "/img/uploads/picpay.png"
+      "src": "/img/uploads/logo-picpay-256.png"
     },
     {
-      "src": "/img/uploads/image_20200106095425_0.png"
+      "src": "/img/uploads/logo-mercado-pago-256.png"
     }
   ],
   "payment_methods": {
