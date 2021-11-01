@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/hallo-21-teste.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
