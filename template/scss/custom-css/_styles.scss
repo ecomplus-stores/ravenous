@@ -1,1 +1,6 @@
 // Add your custom CSS here.
+@media(max-width: 767px) {
+  .header__logo {
+    max-height: none !important;
+}
+}
