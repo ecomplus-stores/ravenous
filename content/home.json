@@ -4,8 +4,13 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-copia-de-compre-3-leve-4-site.png",
+      "link": "https://ravenous.com.br/promocao"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
-      "link": ""
+      "link": "https://ravenous.com.br/pages/entrega"
     },
     {
       "type": "page-title",
