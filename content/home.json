@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/black-hexmas-1110-x-181-px-.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
