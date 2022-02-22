@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/compre-4-leve-5-brincos-site.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
