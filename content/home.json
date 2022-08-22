@@ -8,15 +8,6 @@
       "link": ""
     },
     {
-      "type": "offers-timer",
-      "max_hours": 74,
-      "start": "2022-08-22T15:00:30.645Z",
-      "end": "2022-08-26T03:00:35.524Z",
-      "offers": [
-        "5f876c5fb2161709fa3ef6e0"
-      ]
-    },
-    {
       "type": "page-title",
       "title": "DESTAQUES"
     },
