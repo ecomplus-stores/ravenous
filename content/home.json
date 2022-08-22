@@ -3,11 +3,6 @@
   "meta_description": "Ravenous - Acessórios Alternativos l Confecção Própria e Artesanal ",
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
