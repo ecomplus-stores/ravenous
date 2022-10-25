@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/hallo-22-parte-2.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
