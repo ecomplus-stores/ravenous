@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/black-november-2022-site-pro.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
