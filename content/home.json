@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/goth-christmas-site.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
