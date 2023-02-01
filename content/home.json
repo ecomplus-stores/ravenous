@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/compre-3-leve-4-site.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-site.png",
       "link": ""
     },
