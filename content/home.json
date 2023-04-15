@@ -67,16 +67,6 @@
       "title": "REPOSIÇÕES:"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
-      "title": "PRODUTOS EM OFERTA",
-      "autoplay": 2000,
-      "sort": "offers"
-    },
-    {
       "type": "page-title",
       "title": "BASTIDORES"
     },
