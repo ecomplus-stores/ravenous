@@ -86,11 +86,6 @@
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/962865\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 4,
