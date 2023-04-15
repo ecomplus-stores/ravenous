@@ -70,10 +70,11 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
-      "page": 3,
+      "page": "",
       "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
       "title": "PRODUTOS EM OFERTA",
-      "autoplay": 1
+      "autoplay": 1,
+      "sort": "offers"
     },
     {
       "type": "page-title",
