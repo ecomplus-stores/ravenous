@@ -8,10 +8,6 @@
       "link": ""
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "DESTAQUES"
     },
