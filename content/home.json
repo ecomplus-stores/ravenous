@@ -65,6 +65,15 @@
       "title": "REPOSIÇÕES:"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
+      "title": "PRODUTOS EM OFERTA",
+      "autoplay": 8
+    },
+    {
       "type": "page-title",
       "title": "BASTIDORES"
     },
@@ -84,15 +93,6 @@
     {
       "type": "custom-html",
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/962865\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
-      "title": "PRODUTOS EM OFERTA",
-      "autoplay": 8
     }
   ]
 }
