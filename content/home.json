@@ -55,7 +55,9 @@
       "sort": null,
       "title": "NOVIDADES RECENTES!",
       "collection_id": "5f3f3078f023684cdbdbca75",
-      "link": "https://ravenous.com.br/novidades"
+      "link": "https://ravenous.com.br/novidades",
+      "autoplay": 1,
+      "page": ""
     },
     {
       "type": "collection-shelf",
