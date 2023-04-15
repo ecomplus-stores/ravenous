@@ -29,10 +29,6 @@
       "headless": true
     },
     {
-      "type": "page-title",
-      "title": "COLEÇÕES "
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
