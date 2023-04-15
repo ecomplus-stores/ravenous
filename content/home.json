@@ -88,10 +88,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 4,
+      "limit": "",
       "page": 1,
       "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
-      "title": "OFERTAS",
+      "title": "PRODUTOS EM OFERTA",
       "autoplay": 8
     }
   ]
