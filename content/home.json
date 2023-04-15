@@ -4,12 +4,12 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-icons-1-.png"
+      "img": "/img/uploads/banner-site.png",
+      "link": ""
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-site.png",
-      "link": ""
+      "img": "/img/uploads/banner-icons-1-.png"
     },
     {
       "type": "page-title",
