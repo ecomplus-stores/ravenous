@@ -73,7 +73,7 @@
       "page": "",
       "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
       "title": "PRODUTOS EM OFERTA",
-      "autoplay": 1,
+      "autoplay": 2000,
       "sort": "offers"
     },
     {
