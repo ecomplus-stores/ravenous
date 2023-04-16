@@ -5,11 +5,9 @@
     "chokers",
     "aneis",
     "alargabrincos",
-    "decoracao",
-    "edicao-limitada",
-    "exclusivos"
+    "mais-categorias"
   ],
-  "phone_wpp": false,
+  "phone_wpp": true,
   "socials": true,
   "alphabetical_order": true
 }
