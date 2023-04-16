@@ -16,14 +16,6 @@
         "url": "https://ravenous.com.br/pages/entrega"
       },
       {
-        "url": "https://ravenous.com.br/blog",
-        "text": "BASTIDORES"
-      },
-      {
-        "text": "PROMOÇÕES ATIVAS",
-        "url": "https://ravenous.com.br/pages/promocoes-ativas"
-      },
-      {
         "text": "TROCAS E DEVOLUÇÕES",
         "url": "https://ravenous.com.br/pages/trocas"
       }
@@ -76,5 +68,5 @@
     "amex": false,
     "itau": false
   },
-  "credits": "RAVENOUS - CNPJ: 23.825.349/0001-68 © 2015 - 2023 TODOS OS DIREITOS RESERVADOS"
+  "credits": "RAVENOUS - CNPJ: 23.825.349/0001-68 © 2023 TODOS OS DIREITOS RESERVADOS"
 }
