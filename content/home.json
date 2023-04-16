@@ -71,7 +71,8 @@
         },
         {
           "img": "/img/uploads/banner-colecoes-300-400-px-1-.png",
-          "link": "https://ravenous.com.br/decoracao"
+          "link": "https://ravenous.com.br/decoracao",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "img": "/img/uploads/banner-colecoes-300-400-px-2-.png",
