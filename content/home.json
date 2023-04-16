@@ -71,6 +71,15 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-colecoes-300-400-px-.png",
+          "link": "https://ravenous.com.br/edicao-limitada"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": ""
     },
