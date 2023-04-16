@@ -8,10 +8,6 @@
       "link": ""
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-icons-1-.png"
-    },
-    {
       "type": "page-title",
       "title": ""
     },
@@ -27,6 +23,10 @@
       "shuffle": true,
       "collection_id": "5f3686eff023684cdbda5d4a:collections:DESTAQUES 2:/destaques",
       "headless": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-icons-1-.png"
     },
     {
       "type": "banners-grid",
