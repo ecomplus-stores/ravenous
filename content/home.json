@@ -67,7 +67,8 @@
       "banners": [
         {
           "img": "/img/uploads/banner-categorias.png",
-          "link": "https://ravenous.com.br/edicao-limitada"
+          "link": "https://ravenous.com.br/edicao-limitada",
+          "mobile_img": "/img/uploads/4.png"
         },
         {
           "img": "/img/uploads/banner-colecoes-300-400-px-1-.png",
