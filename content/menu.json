@@ -7,7 +7,7 @@
     "alargabrincos",
     "mais-categorias"
   ],
-  "phone_wpp": true,
+  "phone_wpp": false,
   "socials": true,
   "alphabetical_order": false
 }
