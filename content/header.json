@@ -19,7 +19,7 @@
       "/mais-categorias?+ CATEGORIAS"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true,
   "alphabetical_order_submenu": true,
