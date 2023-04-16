@@ -86,16 +86,12 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-icons-3-.png"
+      "img": "/img/uploads/banner-icons-5-.png",
+      "link": "https://www.instagram.com/ravenousloja"
     },
     {
       "type": "custom-html",
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/962865\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-be-a-ravengirl-1-.png",
-      "link": "https://www.instagram.com/ravenousloja/"
     }
   ]
 }
