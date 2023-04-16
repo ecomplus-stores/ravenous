@@ -63,14 +63,6 @@
       "title": "REPOSIÇÕES"
     },
     {
-      "type": "page-title",
-      "title": "BASTIDORES"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
