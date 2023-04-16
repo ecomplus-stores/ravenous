@@ -77,7 +77,8 @@
         },
         {
           "img": "/img/uploads/banner-colecoes-300-400-px-2-.png",
-          "link": "https://ravenous.com.br/personalizados"
+          "link": "https://ravenous.com.br/personalizados",
+          "mobile_img": "/img/uploads/3.png"
         }
       ]
     },
