@@ -29,19 +29,19 @@
       "banners": [
         {
           "img": "/img/uploads/colares-5-.png",
-          "mobile_img": "/img/uploads/banner-categorias-400-48-px-.png",
+          "mobile_img": "/img/uploads/ba1.png",
           "link": "https://ravenous.com.br/vampire-addiction"
         },
         {
           "img": "/img/uploads/colares-3-.png",
           "link": "https://ravenous.com.br/nature",
           "alt": "",
-          "mobile_img": "/img/uploads/banner-categorias-400-48-px-2-.png"
+          "mobile_img": "/img/uploads/ba2.png"
         },
         {
           "img": "/img/uploads/colares-4-.png",
           "link": "https://ravenous.com.br/skull-lover",
-          "mobile_img": "/img/uploads/banner-categorias-400-48-px-1-.png"
+          "mobile_img": "/img/uploads/ba3.png"
         }
       ]
     },
