@@ -71,14 +71,14 @@
           "mobile_img": "/img/uploads/b4.png"
         },
         {
-          "img": "/img/uploads/banner-colecoes-300-400-px-1-.png",
-          "link": "https://ravenous.com.br/decoracao",
-          "mobile_img": "/img/uploads/b6.png"
-        },
-        {
           "img": "/img/uploads/banner-colecoes-300-400-px-2-.png",
           "link": "https://ravenous.com.br/personalizados",
           "mobile_img": "/img/uploads/b5.png"
+        },
+        {
+          "img": "/img/uploads/banner-colecoes-300-400-px-1-.png",
+          "link": "https://ravenous.com.br/decoracao",
+          "mobile_img": "/img/uploads/b6.png"
         }
       ]
     },
