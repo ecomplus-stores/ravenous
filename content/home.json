@@ -93,7 +93,8 @@
       "page": "",
       "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas",
       "title": "",
-      "autoplay": 3000
+      "autoplay": 3000,
+      "headless": true
     },
     {
       "type": "responsive-banner",
