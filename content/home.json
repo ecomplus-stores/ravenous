@@ -83,17 +83,6 @@
       ]
     },
     {
-      "autoplay": 3000,
-      "page": "",
-      "title": "",
-      "shuffle": false,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "https://ravenous.com.br/ofertas",
-      "limit": "",
-      "collection_id": null
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banners-1-.png",
       "link": "https://www.instagram.com/ravenousloja"
