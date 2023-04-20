@@ -85,13 +85,13 @@
     {
       "autoplay": 3000,
       "page": "",
-      "title": "PRODUTOS EM OFERTA",
+      "title": "",
       "shuffle": false,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "https://ravenous.com.br/ofertas",
       "limit": "",
-      "collection_id": "5f442125f023684cdbdc89e0:collections:OFERTAS:/ofertas"
+      "collection_id": null
     },
     {
       "type": "responsive-banner",
