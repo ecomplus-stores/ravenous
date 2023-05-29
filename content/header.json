@@ -16,10 +16,10 @@
       "/chokers?CHOKERS",
       "/aneis?ANÉIS ",
       "/alargabrincos?ALARGABRINCOS",
-      "/mais-categorias?+ CATEGORIAS",
       "/decoracao?DECOR",
       "/ofertas?OFERTAS",
-      "/pronta-entrega?PRONTA ENTREGA"
+      "/pronta-entrega?PRONTA ENTREGA",
+      "/mais-categorias?+ CATEGORIAS"
     ],
     "random": 0,
     "full_width": true
