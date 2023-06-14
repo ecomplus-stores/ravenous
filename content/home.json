@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/valentine-site-2023.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-icons-2-.png",
       "link": ""
     },
