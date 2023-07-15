@@ -4,10 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/dia-do-rock-site.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/banner-icons-2-.png",
       "link": ""
     },
