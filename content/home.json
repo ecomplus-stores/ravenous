@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/setembro-negro-2023-site.png"
+      "img": "/img/uploads/setembro-negro-2023-site.png",
+      "link": "www.ravenous.com.br"
     },
     {
       "type": "responsive-banner",
