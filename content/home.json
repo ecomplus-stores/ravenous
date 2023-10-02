@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/this-is-halloween-1110-x-181-px-.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/banner-icons-2-.png",
       "link": ""
     },
