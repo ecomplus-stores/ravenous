@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b5c1f423be284a3cff9ca9cc4d02c5ff.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.4f6e04e25185d99401e55dab76ecf734.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.95f98a0f8f7157e203283f3ec6c8ea08.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d351872de55787d20ed3d69a90ea48a3.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.6c4d01ac4600a0a1888f532528c5c843.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Ravenous",
+  "short_name": "Ravenous",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "ACESSÓRIOS & ITENS DECORATIVOS\n\n\nOCCULT, MYSTIC AND HORROR... \nBE A RAVENGIRL !",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
